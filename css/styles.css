@@ -4012,7 +4012,7 @@ input[type=button].btn-block {
   font-size: 1.25rem;
   line-height: 1;
   background-color: transparent;
-  border: 1px solid transparent;
+  border: none;
   border-radius: 0.25rem;
 }
 .navbar-toggler:hover, .navbar-toggler:focus {
@@ -10001,7 +10001,7 @@ p.lead {
   letter-spacing: 0.05rem;
 }
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: #5f7d79;
 }
 
 @media (min-width: 992px) {
