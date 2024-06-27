@@ -9768,7 +9768,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #5f7d79 !important;
+  color: #163853 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10050,7 +10050,7 @@ p.lead {
   height: 3.5rem;
   width: 3.5rem;
   background-color: #5f7d7945;
-  color: #5f7d79;
+  color: #163853;
   border-radius: 100%;
   font-size: 1.5rem;
   margin-right: 1.5rem;
@@ -10059,7 +10059,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #5F7D79;
+  background-color: #163853;
   color: #FFF;
 }
 
